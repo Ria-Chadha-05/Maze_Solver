@@ -1,0 +1,30 @@
+# Compiled object files
+*.o
+
+# Executable binaries
+a.out
+*.exe
+*.out
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# macOS metadata
+*.DS_Store
+
+# Backup or temporary files
+*~
+*.swp
+*.tmp
+*.bak
+
+# CMake or Make artifacts (if you use build systems)
+build/
+cmake-build-*/
+
+# Log files
+*.log
